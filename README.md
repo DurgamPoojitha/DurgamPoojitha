@@ -1,16 +1,134 @@
-## Hi there 👋
+# Hi there, I'm Durgam Poojitha 👋
 
-<!--
-**DurgamPoojitha/DurgamPoojitha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE @ Amrita School of Engineering (2023–2027)  
+💡 Passionate about AI/ML, Data Science, Full Stack Development & Business Intelligence  
+📍 Building real-world, data-driven systems  
 
-Here are some ideas to get you started:
+🔗 Portfolio: https://your-portfolio-link  
+🔗 LinkedIn: https://your-linkedin  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🧠 Strong focus on **Machine Learning, NLP & Computer Vision**
+- 💻 Experienced in **Full Stack Development + Backend Systems**
+- 📊 Interested in **Data Analytics & Business Intelligence Platforms**
+- 🔍 Love solving real-world problems using **AI + scalable systems**
+- 🌱 Currently working on **Deep Learning (Medical Imaging + SAM models)**
+
+---
+
+## 🛠️ Tech Stack
+
+### 👩‍💻 Languages
+![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python)
+![C++](https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=cplusplus)
+![Java](https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript)
+
+### 🌐 Web & Frameworks
+![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=node.js)
+![FastAPI](https://img.shields.io/badge/-FastAPI-teal?style=for-the-badge&logo=fastapi)
+![Angular](https://img.shields.io/badge/-Angular-red?style=for-the-badge&logo=angular)
+
+### 🧠 AI/ML & Data
+![PyTorch](https://img.shields.io/badge/-PyTorch-red?style=for-the-badge&logo=pytorch)
+![NLP](https://img.shields.io/badge/-NLP-purple?style=for-the-badge)
+![Transformers](https://img.shields.io/badge/-Transformers-yellow?style=for-the-badge)
+
+### 🗄️ Databases & Tools
+![MySQL](https://img.shields.io/badge/-MySQL-blue?style=for-the-badge&logo=mysql)
+![SQLite](https://img.shields.io/badge/-SQLite-lightgrey?style=for-the-badge&logo=sqlite)
+![Power BI](https://img.shields.io/badge/-PowerBI-yellow?style=for-the-badge&logo=powerbi)
+![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
+![VS Code](https://img.shields.io/badge/-VS%20Code-blue?style=for-the-badge&logo=visualstudiocode)
+![Microsoft Visio](https://img.shields.io/badge/-Visio-blue?style=for-the-badge&logo=microsoft)
+
+---
+
+## 💼 Experience
+
+### 🧠 AI/ML Intern — WeKan Enterprise Solutions (Feb 2026 – Present)
+- Built **nucleus segmentation pipeline** using SAM (Segment Anything Model)
+- Adapted research papers into **efficient real-world implementations**
+- Improved segmentation performance under **resource constraints**
+
+### 💻 Full Stack Intern — Innovatiq Technologies (May 2025 – Jun 2025)
+- Developed **Task Learning Management system**
+- Worked with **Angular + Node.js**
+- Contributed to **feature development & debugging in production environment**
+
+---
+
+## 📌 Featured Projects
+
+### 🛍️ Shopping Website (Electron App)
+- Built a **desktop-based e-commerce app**
+- Features: product search, filtering, cart system
+- Tech: HTML, CSS, JS, Electron
+
+---
+
+### 🛡️ Phishing Detection using NLP
+- Fine-tuned **BERT & DistilBERT models**
+- Achieved **F1-score up to 0.9967**
+- Built **Explainable AI system (Captum)** for word-level insights
+
+---
+
+### 🔐 SQL Injection Detection System
+- Hybrid system (**ML + Rule-Based detection**)
+- Logistic Regression + feature engineering
+- Generated **interactive security reports (ROC, PR curves)**
+
+---
+
+### 📊 Finance Flow — BI Platform
+- Built **end-to-end ETL pipeline**
+- FastAPI backend for **real-time KPI analytics**
+- React dashboard for **financial insights & trends**
+- Mimics **real enterprise BI architecture**
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+
+---
+
+## 🔥 Streak
+
+![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical)
+
+---
+
+## 📈 Contribution Graph
+
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark)
+
+---
+
+## 📜 Certifications
+
+- Supervised Learning — Deeplearning.AI  
+- Advanced Learning Algorithms — Deeplearning.AI  
+- Business Analysis Fundamentals — Microsoft  
+- Data for Business Analysts — Microsoft  
+- Python & Java Programming — Udemy  
+
+---
+
+## 💡 Current Focus
+
+- 🔬 Medical Image Segmentation (Deep Learning)
+- 📊 Business Intelligence Systems
+- ⚡ Scalable AI Applications
+
+---
+
+⭐ *Always open to internships, collaborations, and research opportunities!*
