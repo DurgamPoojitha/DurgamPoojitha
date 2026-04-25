@@ -4,9 +4,11 @@
 💡 Passionate about AI/ML, Data Science, Full Stack Development & Business Intelligence  
 📍 Building real-world, data-driven systems  
 
-🔗 Portfolio: https://portfolio-woad-mu-53.vercel.app/ 
-🔗 LinkedIn: https://www.linkedin.com/in/poojitha-durgam-856a0b291
-🔗 Email: durgampoojitha19@gmail.com
+### 🌐 Connect with Me
+
+🔗 [Portfolio](https://portfolio-woad-mu-53.vercel.app/)  
+💼 [LinkedIn](https://www.linkedin.com/in/poojitha-durgam-856a0b291)  
+📧 [Email](mailto:durgampoojitha19@gmail.com)
 
 ---
 
