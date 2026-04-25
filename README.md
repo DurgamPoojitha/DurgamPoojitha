@@ -4,8 +4,9 @@
 💡 Passionate about AI/ML, Data Science, Full Stack Development & Business Intelligence  
 📍 Building real-world, data-driven systems  
 
-🔗 Portfolio: https://your-portfolio-link  
-🔗 LinkedIn: https://your-linkedin  
+🔗 Portfolio: https://portfolio-woad-mu-53.vercel.app/ 
+🔗 LinkedIn: https://www.linkedin.com/in/poojitha-durgam-856a0b291
+🔗 Email: durgampoojitha19@gmail.com
 
 ---
 
@@ -18,32 +19,53 @@
 - 🌱 Currently working on **Deep Learning (Medical Imaging + SAM models)**
 
 ---
-
 ## 🛠️ Tech Stack
 
-### 👩‍💻 Languages
+### 👩‍💻 Programming Languages
 ![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python)
 ![C++](https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=cplusplus)
 ![Java](https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=typescript)
+![Go](https://img.shields.io/badge/-Go-blue?style=for-the-badge&logo=go)
+![Haskell](https://img.shields.io/badge/-Haskell-purple?style=for-the-badge&logo=haskell)
+
+---
 
 ### 🌐 Web & Frameworks
 ![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=node.js)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-teal?style=for-the-badge&logo=fastapi)
 ![Angular](https://img.shields.io/badge/-Angular-red?style=for-the-badge&logo=angular)
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-green?style=for-the-badge&logo=springboot)
+
+---
+
+### 📱 Mobile Development
+![Flutter](https://img.shields.io/badge/-Flutter-blue?style=for-the-badge&logo=flutter)
+![Dart](https://img.shields.io/badge/-Dart-blue?style=for-the-badge&logo=dart)
+
+---
 
 ### 🧠 AI/ML & Data
 ![PyTorch](https://img.shields.io/badge/-PyTorch-red?style=for-the-badge&logo=pytorch)
 ![NLP](https://img.shields.io/badge/-NLP-purple?style=for-the-badge)
 ![Transformers](https://img.shields.io/badge/-Transformers-yellow?style=for-the-badge)
 
-### 🗄️ Databases & Tools
+---
+
+### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-darkblue?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=for-the-badge&logo=mongodb)
 ![SQLite](https://img.shields.io/badge/-SQLite-lightgrey?style=for-the-badge&logo=sqlite)
-![Power BI](https://img.shields.io/badge/-PowerBI-yellow?style=for-the-badge&logo=powerbi)
+
+---
+
+### 🧰 Tools & BI
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-blue?style=for-the-badge&logo=visualstudiocode)
+![Power BI](https://img.shields.io/badge/-PowerBI-yellow?style=for-the-badge&logo=powerbi)
 ![Microsoft Visio](https://img.shields.io/badge/-Visio-blue?style=for-the-badge&logo=microsoft)
 
 ---
@@ -95,21 +117,21 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=DurgamPoojitha&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DurgamPoojitha&layout=compact&theme=radical)
 
 ---
 
 ## 🔥 Streak
 
-![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical)
+![Streak](https://streak-stats.demolab.com?user=DurgamPoojitha&theme=radical)
 
 ---
 
 ## 📈 Contribution Graph
 
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark)
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=DurgamPoojitha&theme=react-dark)
 
 ---
 
@@ -119,7 +141,8 @@
 - Advanced Learning Algorithms — Deeplearning.AI  
 - Business Analysis Fundamentals — Microsoft  
 - Data for Business Analysts — Microsoft  
-- Python & Java Programming — Udemy  
+- Python & Java Programming — Udemy
+- Data and Business Process Modeling with Microsoft Visio  — Microsoft 
 
 ---
 
