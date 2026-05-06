@@ -149,11 +149,11 @@
 
 <div align="center">
 
-<img src="https://leetcode.card.workers.dev/1tZDMNGh5j?theme=dark&font=baloo&extension=activity" />
+<img src="https://leetcode.card.workers.dev/DurgamPoojitha?theme=dark&font=baloo&extension=activity" />
 
 <br><br>
 
-<img src="https://leetcard.jacoblin.cool/1tZDMNGh5j?theme=dark&font=Nunito&ext=heatmap" />
+<img src="https://leetcard.jacoblin.cool/DurgamPoojitha?theme=dark&font=Nunito&ext=heatmap" />
 
 </div>
 
