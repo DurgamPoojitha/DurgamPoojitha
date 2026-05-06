@@ -117,50 +117,47 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=DurgamPoojitha&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DurgamPoojitha&layout=compact&theme=radical)
-
----
-
-## 🔥 Streak
-
-![Streak](https://streak-stats.demolab.com?user=DurgamPoojitha&theme=radical)
-
----
-
-## 📈 Contribution Graph
-
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=DurgamPoojitha&theme=react-dark)
-
----
-
-## 🧩 LeetCode & Coding
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/1tZDMNGh5j?theme=dark&font=Nunito&ext=heatmap" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DurgamPoojitha&show_icons=true&theme=radical&hide_border=true" />
 
-<br><br>
-
-![LeetCode Stats](https://leetcode-badge-showcase.vercel.app/api?username=1tZDMNGh5j&theme=dark)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DurgamPoojitha&layout=compact&theme=radical&hide_border=true" />
 
 </div>
 
 ---
 
-## 📅 LeetCode Contributions
+# 🔥 GitHub Streak
 
-![LeetCode Calendar](https://leetcode-stats-six.vercel.app/api?username=1tZDMNGh5j&theme=dark)
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=DurgamPoojitha&theme=radical&hide_border=true" />
+
+</div>
 
 ---
 
-## ⚡ LeetCode Activity
+# 📈 Contribution Graph
 
-![LeetCode Activity](https://leetcard.jacoblin.cool/1tZDMNGh5j?ext=activity)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DurgamPoojitha&theme=react-dark&hide_border=true" />
 
+---
+
+# 🧩 LeetCode & Competitive Coding
+
+<div align="center">
+
+<img src="https://leetcode.card.workers.dev/1tZDMNGh5j?theme=dark&font=baloo&extension=activity" />
+
+<br><br>
+
+<img src="https://leetcard.jacoblin.cool/1tZDMNGh5j?theme=dark&font=Nunito&ext=heatmap" />
+
+</div>
+
+---
 
 ## 📜 Certifications
 
