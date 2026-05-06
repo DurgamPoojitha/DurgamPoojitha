@@ -137,6 +137,31 @@
 
 ---
 
+## 🧩 LeetCode & Coding
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/1tZDMNGh5j?theme=dark&font=Nunito&ext=heatmap" />
+
+<br><br>
+
+![LeetCode Stats](https://leetcode-badge-showcase.vercel.app/api?username=1tZDMNGh5j&theme=dark)
+
+</div>
+
+---
+
+## 📅 LeetCode Contributions
+
+![LeetCode Calendar](https://leetcode-stats-six.vercel.app/api?username=1tZDMNGh5j&theme=dark)
+
+---
+
+## ⚡ LeetCode Activity
+
+![LeetCode Activity](https://leetcard.jacoblin.cool/1tZDMNGh5j?ext=activity)
+
+
 ## 📜 Certifications
 
 - Supervised Learning — Deeplearning.AI  
