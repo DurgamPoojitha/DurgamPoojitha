@@ -69,33 +69,33 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-blue?style=for-the-badge&logo=visualstudiocode)
 ![Power BI](https://img.shields.io/badge/-PowerBI-yellow?style=for-the-badge&logo=powerbi)
 ![Microsoft Visio](https://img.shields.io/badge/-Visio-blue?style=for-the-badge&logo=microsoft)
-
 ---
-
 ## 💼 Experience
 
-### 🌱 Founding Team Member (Intern) — MindYatra (May 2026 – Present)
--Building a **mental wellness companion app** reflecting the company’s digital wellness platform
--Developing the frontend using **React Native (Expo)** and backend services using **Laravel**
--Contributing to **feature development, UI implementation and backend integration**
--Collaborating closely with the founding team in a fast-paced startup environment
--Gaining hands-on experience in **full stack mobile application development** and startup operations
-
-### 🧠 AI/ML Intern — WeKan Enterprise Solutions (Feb 2026 – Present)
-- Built an **agentic nucleus segmentation pipeline using SAM (Segment Anything Model) for histopathology image analysis**
--Developed **UICE (Uncertainty-Informed Correction Engine)** for autonomous segmentation refinement using epistemic and aleatoric uncertainty         estimation
--Implemented **automatic prompt generation and adaptive refinement strategies** for self-correcting segmentation without human intervention
--Designed an **agentic controller that dynamically adjusted refinement iterations, patch size and correction strategy based on uncertainty signals**
--Added **explainability mechanisms** to justify refinement decisions and corrective actions
--Optimized the complete pipeline for **low-resource execution** on Google Colab Free Tier
-
-### 💻 Full Stack Intern — Innovatiq Technologies (May 2025 – Jun 2025)
-- Developed **Task Learning Management system**
-- Worked with **Angular + Node.js**
-- Contributed to **feature development & debugging in production environment**
+### 🌱 Founding Team Member (Intern) — MindYatra *(May 2026 – Present)*
+- Building a **mental wellness companion app** aligned with the company’s digital wellness platform
+- Developing cross-platform mobile applications using **React Native (Expo)** and backend services using **Laravel**
+- Contributing to **feature development, UI implementation, API integration, and debugging**
+- Collaborating closely with the founding team in a **fast-paced startup environment**
+- Gaining hands-on experience in **full stack mobile application development** and startup operations
 
 ---
 
+### 🧠 AI/ML Intern — WeKan Enterprise Solutions *(Feb 2026 – Present)*
+- Built an **agentic nucleus segmentation pipeline** using **SAM (Segment Anything Model)** for histopathology image analysis
+- Developed **UICE (Uncertainty-Informed Correction Engine)** for autonomous segmentation refinement using **epistemic and aleatoric uncertainty estimation**
+- Implemented **automatic prompt generation** and adaptive refinement strategies for **self-correcting segmentation without human intervention**
+- Designed an **agentic controller** that dynamically adjusted refinement iterations, patch size, and correction strategies based on uncertainty signals
+- Added **explainability mechanisms** to justify refinement decisions and corrective actions
+- Optimized the complete pipeline for **low-resource execution** on **Google Colab Free Tier**
+
+---
+
+### 💻 Full Stack Intern — Innovatiq Technologies *(May 2025 – Jun 2025)*
+- Developed a **Task Learning Management System**
+- Worked with **Angular** and **Node.js** for full stack application development
+- Contributed to **feature development, debugging, and production-level enhancements**
+---
 ## 📌 Featured Projects
 
 ### 🛍️ Shopping Website (Electron App)
