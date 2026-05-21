@@ -74,10 +74,20 @@
 
 ## 💼 Experience
 
+### 🌱 Founding Team Member (Intern) — MindYatra (May 2026 – Present)
+-Building a **mental wellness companion app** reflecting the company’s digital wellness platform
+-Developing the frontend using **React Native (Expo)** and backend services using **Laravel**
+-Contributing to **feature development, UI implementation and backend integration**
+-Collaborating closely with the founding team in a fast-paced startup environment
+-Gaining hands-on experience in **full stack mobile application development** and startup operations
+
 ### 🧠 AI/ML Intern — WeKan Enterprise Solutions (Feb 2026 – Present)
-- Built **nucleus segmentation pipeline** using SAM (Segment Anything Model)
-- Adapted research papers into **efficient real-world implementations**
-- Improved segmentation performance under **resource constraints**
+- Built an **agentic nucleus segmentation pipeline using SAM (Segment Anything Model) for histopathology image analysis**
+-Developed **UICE (Uncertainty-Informed Correction Engine)** for autonomous segmentation refinement using epistemic and aleatoric uncertainty         estimation
+-Implemented **automatic prompt generation and adaptive refinement strategies** for self-correcting segmentation without human intervention
+-Designed an **agentic controller that dynamically adjusted refinement iterations, patch size and correction strategy based on uncertainty signals**
+-Added **explainability mechanisms** to justify refinement decisions and corrective actions
+-Optimized the complete pipeline for **low-resource execution** on Google Colab Free Tier
 
 ### 💻 Full Stack Intern — Innovatiq Technologies (May 2025 – Jun 2025)
 - Developed **Task Learning Management system**
