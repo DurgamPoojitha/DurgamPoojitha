@@ -10,13 +10,13 @@
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-woad-mu-53.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/poojitha-durgam-856a0b291)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/durgampoojitha19/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/DurgamPoojitha/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:durgampoojitha19@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/poojithadurgam)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DurgamPoojitha)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=poojithadurgam&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=DurgamPoojitha&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -29,19 +29,34 @@ class Poojitha:
     name        = "Durgam Poojitha"
     education   = "B.Tech CSE · Amrita School of Engineering · 2023–2027 · GPA: 8.13/10"
     roles       = ["Full Stack Engineer", "AI & ML Developer", "Data & Business Enthusiast"]
-    interning   = "WeKan Enterprise Solutions — Medical AI (SAM · Deep Learning) · Feb 2026–Present"
-    prev_intern = "Innovatiq Technologies — Full Stack LMS · May 2025–Jun 2025"
-    building    = ["Nucleus Segmentation Pipelines", "NLP Security Systems", "BI Platforms"]
-    open_to     = ["AI/ML Internships", "SWE Roles", "Data Engineering", "Research Positions"]
+    interning   = [
+        "MindYatra.in — Mobile Full Stack (React Native + Laravel) · May 2026–Present",
+        "WeKan Enterprise Solutions — Medical AI (SAM · Deep Learning) · Feb 2026–Present",
+        "Innovatiq Technologies — Full Stack LMS · May 2025–Jun 2025",
+    ]
+    building    = ["Mental Wellness App", "Nucleus Segmentation Pipelines", "NLP Security Systems"]
+    open_to     = ["AI/ML Internships", "SWE Roles", "Mobile Engineering", "Research Positions"]
 ```
 
-Engineering end-to-end systems at the intersection of AI, full-stack development, and data intelligence. From designing fine-tuned transformer models that hit **F1 scores of 0.9967** to building business intelligence platforms with automated ETL pipelines and real-time KPI dashboards — focused on delivering measurable engineering impact, not just working prototypes.
+Engineering end-to-end systems at the intersection of AI, full-stack development, and data intelligence. From designing fine-tuned transformer models that hit **F1 scores of 0.9967** to building cross-platform mobile applications for mental wellness — focused on delivering measurable engineering impact across web, mobile, and AI.
 
-Currently applying deep learning to clinical medical imaging at **WeKan Enterprise Solutions**, developing nucleus segmentation pipelines with Segment Anything Model (SAM) on histopathology data.
+Currently holding **two active internships**: building a mental wellness companion app with React Native + Laravel at **MindYatra.in**, and developing medical imaging AI pipelines with SAM at **WeKan Enterprise Solutions**.
 
 ---
 
 ## 💼 Internship Experience
+
+### 📱 MindYatra.in &nbsp;|&nbsp; May 2026 – Present
+**Full Stack Developer Intern · Mental Wellness Mobile App**
+
+`React Native` `Expo` `Laravel` `Full Stack` `Mobile Development`
+
+- Building a cross-platform mental wellness companion app aligned with the company's digital wellness platform
+- Developing mobile UI and features using React Native (Expo) with backend services powered by Laravel
+- Contributing across the full stack — UI implementation, API integration, feature development, and debugging
+- Collaborating directly with the founding team in a fast-paced startup environment, gaining end-to-end product ownership experience
+
+---
 
 ### 🔬 WeKan Enterprise Solutions &nbsp;|&nbsp; Feb 2026 – Present
 **Deep Learning Engineer · Computer Vision · Medical AI**
@@ -234,6 +249,8 @@ Currently applying deep learning to clinical medical imaging at **WeKan Enterpri
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -243,6 +260,7 @@ Currently applying deep learning to clinical medical imaging at **WeKan Enterpri
 **Backend**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -264,6 +282,7 @@ Currently applying deep learning to clinical medical imaging at **WeKan Enterpri
 **Tools & DevOps**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -353,7 +372,7 @@ Parallel interest in NLP-driven security systems — demonstrated through a phis
 |---|---|
 | 🌐 **Portfolio** | [portfolio-woad-mu-53.vercel.app](https://portfolio-woad-mu-53.vercel.app/) |
 | 💼 **LinkedIn** | [poojitha-durgam-856a0b291](https://www.linkedin.com/in/poojitha-durgam-856a0b291) |
-| 🏆 **LeetCode** | [durgampoojitha19](https://leetcode.com/u/durgampoojitha19/) |
+| 🏆 **LeetCode** | [DurgamPoojitha](https://leetcode.com/u/DurgamPoojitha/) |
 | 📧 **Email** | [durgampoojitha19@gmail.com](mailto:durgampoojitha19@gmail.com) |
 
 </div>
