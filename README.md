@@ -51,18 +51,6 @@ Currently working as an **AI/ML Intern at WeKan Enterprise Solutions**, developi
 
 ## 💼 Internship Experience
 
-### 📱 MindYatra.in &nbsp;|&nbsp; May 2026 – Present
-**Full Stack Developer Intern · Mental Wellness Mobile App**
-
-`React Native` `Expo` `Laravel` `Full Stack` `Mobile Development`
-
-- Building a cross-platform mental wellness companion app aligned with the company's digital wellness platform
-- Developing mobile UI and features using React Native (Expo) with backend services powered by Laravel
-- Contributing across the full stack — UI implementation, API integration, feature development, and debugging
-- Collaborating directly with the founding team in a fast-paced startup environment, gaining end-to-end product ownership experience
-
----
-
 ### 🔬 WeKan Enterprise Solutions &nbsp;|&nbsp; Feb 2026 – Present
 **Deep Learning Engineer · Computer Vision · Medical AI**
 
@@ -71,6 +59,18 @@ Currently working as an **AI/ML Intern at WeKan Enterprise Solutions**, developi
 - Engineered a deep learning pipeline for nucleus segmentation in histopathology images using Segment Anything Model (SAM)
 - Optimized model performance under real computational constraints, adapting cutting-edge research into practical implementations
 - Improved segmentation accuracy through custom preprocessing routines and systematic model tuning on clinical imaging data
+
+---
+
+### 📱 MindYatra.in &nbsp;|&nbsp; May 2026 – June 2026
+**Full Stack Developer Intern · Mental Wellness Mobile App**
+
+`React Native` `Expo` `Laravel` `Full Stack` `Mobile Development`
+
+- Building a cross-platform mental wellness companion app aligned with the company's digital wellness platform
+- Developing mobile UI and features using React Native (Expo) with backend services powered by Laravel
+- Contributing across the full stack — UI implementation, API integration, feature development, and debugging
+- Collaborating directly with the founding team in a fast-paced startup environment, gaining end-to-end product ownership experience
 
 ---
 
