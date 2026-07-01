@@ -29,18 +29,23 @@ class Poojitha:
     name        = "Durgam Poojitha"
     education   = "B.Tech CSE · Amrita School of Engineering · 2023–2027 · GPA: 8.13/10"
     roles       = ["Full Stack Engineer", "AI & ML Developer", "Data & Business Enthusiast"]
-    interning   = [
-        "MindYatra.in — Mobile Full Stack (React Native + Laravel) · May 2026–Present",
-        "WeKan Enterprise Solutions — Medical AI (SAM · Deep Learning) · Feb 2026–Present",
-        "Innovatiq Technologies — Full Stack LMS · May 2025–Jun 2025",
+    interning = [
+    "WeKan Enterprise Solutions — Medical AI Research · Jul 2026–Present",
+    "MindYatra.in — Mobile Full Stack (React Native + Laravel) · May 2026–Jun 2026",
+    "Innovatiq Technologies — Full Stack LMS · May 2025–Jun 2025",
     ]
-    building    = ["Mental Wellness App", "Nucleus Segmentation Pipelines", "NLP Security Systems"]
-    open_to     = ["AI/ML Internships", "SWE Roles", "Mobile Engineering", "Research Positions"]
+    building = [
+    "Enterprise Workforce Intelligence Platform",
+    "AI Recruiter Assistant",
+    "Medical AI Segmentation Pipelines",
+    "Mental Wellness Applications"
+    ]
+    open_to     = ["AI/ML Internships", "SE Roles", "Mobile Engineering", "Research Positions", "Data Analyst Positions"]
 ```
 
-Engineering end-to-end systems at the intersection of AI, full-stack development, and data intelligence. From designing fine-tuned transformer models that hit **F1 scores of 0.9967** to building cross-platform mobile applications for mental wellness — focused on delivering measurable engineering impact across web, mobile, and AI.
+Engineering end-to-end intelligent software systems at the intersection of AI, full-stack development, and data intelligence. Experienced in building enterprise HR analytics platforms, AI-powered recruitment systems, medical imaging pipelines, and cross-platform mobile applications. Passionate about developing scalable, production-ready solutions that combine modern software engineering with machine learning and business intelligence.
 
-Currently holding **two active internships**: building a mental wellness companion app with React Native + Laravel at **MindYatra.in**, and developing medical imaging AI pipelines with SAM at **WeKan Enterprise Solutions**.
+Currently working as an **AI/ML Intern at WeKan Enterprise Solutions**, developing medical image segmentation pipelines using Segment Anything Models (SAM). Previously worked as a **Mobile Full Stack Developer Intern at MindYatra.in**, contributing to the development of psychology-driven mobile applications using React Native and Laravel.
 
 ---
 
@@ -81,6 +86,55 @@ Currently holding **two active internships**: building a mental wellness compani
 ---
 
 ## 🚀 Featured Projects
+
+
+<details open>
+<summary><b>🏢 Enterprise Workforce Intelligence & Attrition Risk Platform</b></summary>
+<br/>
+
+> **The problem it solves:** Employee attrition is one of the largest hidden costs for organizations. Traditional HR dashboards only explain what has already happened, whereas this platform predicts future attrition, quantifies financial impact, and enables proactive retention strategies.
+
+**Architecture:** Enterprise-grade analytics platform with automated data validation, feature engineering, ensemble machine learning models (XGBoost, LightGBM, CatBoost), MLflow experiment tracking, FastAPI inference services, and an interactive Streamlit executive dashboard. Built using a modular architecture for scalable production deployment.
+
+**Tech Stack:** `Python` · `Scikit-Learn` · `XGBoost` · `LightGBM` · `CatBoost` · `FastAPI` · `Streamlit` · `MLflow` · `SHAP` · `Docker` · `Plotly`
+
+**Results that matter:**
+- ✅ Predicts employee flight risk using enterprise-grade ensemble ML models
+- ✅ Estimates attrition cost and workforce financial impact in real time
+- ✅ Interactive executive dashboard for workforce stability, department risk, and retention analytics
+- ✅ Integrated SHAP Explainable AI for transparent business decision-making
+- ✅ Production-ready architecture with FastAPI APIs, MLflow model registry, and Dockerized deployment
+
+**Why recruiters notice this:** Demonstrates end-to-end Machine Learning engineering—from data pipelines and model development to APIs, explainability, dashboards, and production deployment—while solving a real enterprise business problem.
+
+<br/>
+</details>
+
+---
+
+<details open>
+<summary><b>🤖 AI Recruiter Assistant | Enterprise Recruitment Suite</b></summary>
+<br/>
+
+> **The problem it solves:** Recruiters spend countless hours manually screening resumes, identifying qualified candidates, and preparing technical interviews. This platform automates candidate evaluation using semantic AI, enabling faster and more accurate hiring decisions.
+
+**Architecture:** Full-stack recruitment intelligence platform with a React frontend, FastAPI backend, SQLite relational database, Sentence Transformer embeddings for semantic candidate matching, ATS compliance analysis, AI-powered interview question generation, and interactive recruiter dashboards.
+
+**Tech Stack:** `React` · `FastAPI` · `Python` · `SQLite` · `Sentence Transformers` · `Hugging Face` · `NLP` · `Docker` · `Recharts`
+
+**Results that matter:**
+- ✅ Semantic resume matching using transformer-based sentence embeddings
+- ✅ AI-powered ATS compliance analysis and candidate ranking
+- ✅ Resume fraud detection through timeline and experience validation
+- ✅ Automatically generates personalized technical interview questions based on candidate skills
+- ✅ Interactive recruiter dashboard with candidate filtering, hiring analytics, and AI hiring recommendations
+
+**Why recruiters notice this:** Combines Full Stack Development, Natural Language Processing, AI-assisted decision making, and enterprise software engineering into a production-ready recruitment platform that addresses real-world hiring challenges.
+
+<br/>
+</details>
+
+---
 
 <details open>
 <summary><b>🔐 Web & Email Phishing Detection — NLP + Transformer Models</b></summary>
